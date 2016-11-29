@@ -4,7 +4,7 @@
 
 ### Overview
 
-TODO:
+A dark lightdm webkit theme with Manjaro Linux branding.
 
 ### Prerequisites
 * lightdm-webkit2-greeter-manjaro
