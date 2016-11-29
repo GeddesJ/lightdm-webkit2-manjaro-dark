@@ -1,0 +1,6 @@
+[theme]
+name=Manjaro-Dark
+description=A darker theme for Manjaro based on the Antergos webkit greeter.
+engine=lightdm-webkit2-greeter
+url=index.html
+session=cinnamon
