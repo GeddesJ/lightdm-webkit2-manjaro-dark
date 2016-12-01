@@ -768,7 +768,7 @@ class AntergosTheme {
 	 */
 	authentication_complete() {
 		var selected_session = $( '.selected' ).attr( 'data-session-id' ),
-			err_msg = _util.translations.auth_failed[ _self.lang ];
+			err_msg = _util.translations.auth_failed;
 
 		_self.auth_pending = false;
 		_util.cache_set( selected_session, 'user', lightdm.authentication_user, 'session' );
